@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'VarelaRound';
+    src: url('../fonts/VarelaRound/VarelaRound.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/VarelaRound/VarelaRound.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/VarelaRound/VarelaRound.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/VarelaRound/VarelaRound.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../fonts/VarelaRound/VarelaRound.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/VarelaRound/VarelaRound.svg#svgFontName') format('svg'); /* Legacy iOS */
+    font-weight: normal;
+    font-style: normal;
+}
